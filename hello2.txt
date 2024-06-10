@@ -1,0 +1,3 @@
+Welocome to Java batch
+SDLC is a more traditional, sequential approach to software development, while Agile is an iterative and flexible methodology. 
+SDLC follows a structured path, while Agile allows for incremental development with frequent reassessment and adaptation.
